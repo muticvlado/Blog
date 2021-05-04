@@ -1,0 +1,13 @@
+/* your styles go here */
+
+
+@media(min-width: 992px){
+	.posts-listing .post-thumbnail img{
+	height: 183px;
+	width: 350px;
+}
+}
+
+nav{
+	width: 100% !important;
+}

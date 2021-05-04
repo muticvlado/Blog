@@ -1,0 +1,7 @@
+Administrator
+username: goran
+password: goran123
+
+Bloger
+username: sanja
+password: sanja123
